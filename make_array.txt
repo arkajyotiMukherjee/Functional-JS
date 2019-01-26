@@ -1,0 +1,3 @@
+dog	dog food	$10	happy
+cat	cat food	$20	needs more
+dog	dog food	$10	happy
